@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-  content: "Darkcode";
+  content: "Brayan";
   animation: textanim 10s linear infinite;
 }
 
